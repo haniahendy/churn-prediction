@@ -21,4 +21,4 @@ Logistic regression wins here because the synthetic labels are generated from a 
 Synthetic customers (`churn/data.py`), churn rate about 51 percent, so it is not realistic (real churn is usually far lower and the classes imbalanced). No hyperparameter tuning, no calibration, no cross-validation, one split. Tracking is a plain JSON file, not MLflow.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
